@@ -1,5 +1,6 @@
+---
 Layout: Slide 
-Title: Welcome to the second Slide
-Your text 
-Use this option to exit
+Title: "Welcome to the second slide"
+---
 Making an edit
+Use the left arrow to go back!
